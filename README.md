@@ -1,8 +1,8 @@
 # walter-podspec
 Automatic podspec generator based on a module's package.json, for cordova modules on iOS.
 
-## Install 
-`npm install -g walter-podspec` 
+## Install
+`npm install walter-podspec -D`
 
 ## Usage
 `walter-podspec path/to/module`
