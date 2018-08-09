@@ -1,5 +1,5 @@
 {
-  "name": "walter-podspec",
+  "name": "oriente-podspec",
   "version": "0.1.4",
   "description": "Automatic Podfile generator based on a module's package.json, for cordova modules on iOS.",
   "main": "./lib/index.js",
